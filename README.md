@@ -2,6 +2,20 @@
 
 📱 I'm a beginner Android developer based in Saint Petersburg, Russia. Currently looking for job. ✨✨✨
 
+My current stack:
++ Java
++ Kotlin
++ SQL
++ Android SDK
++ Retrofit2
++ Room
++ MVVM 
+<!--
++  / MVC / MVP
++ Kotlin Courutines
++ Clean Architecture
+-->
+
 💬 I will be glad for any conversations! How you can contact me:
 
 email: vl.an.trofimov@gmail.com
