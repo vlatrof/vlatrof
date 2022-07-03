@@ -2,15 +2,13 @@
 
 ✨📱✨ I'm a beginner Android developer based in Saint Petersburg, Riussia. Currently looking for job.
 
-Thank you for visiting my GitHub page!
-
-I will be glad for any conversations! 💬
-
-How you can contact me:
+I will be glad for any conversations! 💬 How you can contact me:
 
 email: vl.an.trofimov@gmail.com
 
 telegram: @object451
+
+Thank you for visiting my GitHub page!
 
 <!--
 **vlatrof/vlatrof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
