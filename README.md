@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📱 I'm a beginner Android developer based in Saint Petersburg, Riussia. Currently looking for job. ✨✨✨
+📱 I'm a beginner Android developer based in Saint Petersburg, Russia. Currently looking for job. ✨✨✨
 
 💬 I will be glad for any conversations! How you can contact me:
 
