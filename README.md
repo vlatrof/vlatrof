@@ -5,8 +5,9 @@
 💬 I will be glad for any conversations! How you can contact me:
 
 email: vl.an.trofimov@gmail.com
-
 telegram: @object451
+linkedin: www.linkedin.com/in/vlatrof
+headhunter: https://spb.hh.ru/resume/57377a7bff09d729580039ed1f56775330514b
 
 Thank you for visiting my GitHub page!
 
