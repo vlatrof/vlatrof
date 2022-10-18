@@ -6,7 +6,7 @@
 
 email: vl.an.trofimov@gmail.com
 
-telegram: @object451
+telegram: https://t.me/object451
 
 linkedin: www.linkedin.com/in/vlatrof
 
