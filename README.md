@@ -4,13 +4,13 @@
 
 💬 I will be glad for any conversations! How you can contact me:
 
-email: vl.an.trofimov@gmail.com
+Email: vl.an.trofimov@gmail.com
 
-telegram: https://t.me/object451
+Telegram: https://t.me/object451
 
-linkedin: https://linkedin.com/in/vlatrof
+LinkedIn: https://linkedin.com/in/vlatrof
 
-headhunter: https://hh.ru/resume/57377a7bff09d729580039ed1f56775330514b
+HeadHunter: https://hh.ru/resume/57377a7bff09d729580039ed1f56775330514b
 
 Thank you for visiting my GitHub page!
 
