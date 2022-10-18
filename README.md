@@ -6,11 +6,11 @@
 
 email: vl.an.trofimov@gmail.com
 
-telegram: t.me/object451
+telegram: https://t.me/object451
 
-linkedin: linkedin.com/in/vlatrof
+linkedin: https://linkedin.com/in/vlatrof
 
-headhunter: hh.ru/resume/57377a7bff09d729580039ed1f56775330514b
+headhunter: https://hh.ru/resume/57377a7bff09d729580039ed1f56775330514b
 
 Thank you for visiting my GitHub page!
 
