@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Vlad
 
-📱 I'm an Android developer based in Saint Petersburg, Russia. Currently looking for job. ✨✨✨
+📱 I'm an Android developer based in Saint Petersburg, Russia.
+
+✨ Currently looking for job.
 
 💬 I will be glad for any conversations! How you can contact me:
 
