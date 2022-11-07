@@ -4,7 +4,7 @@
 
 ✨ Currently looking for job.
 
-💬 I will be glad for any conversations! How you can contact me:
+💬 I will be glad for any conversations! My profiles and how you can contact me:
 
 Email: vl.an.trofimov@gmail.com
 
@@ -13,6 +13,8 @@ Telegram: https://t.me/object451
 LinkedIn: https://linkedin.com/in/vlatrof
 
 HeadHunter: https://hh.ru/resume/57377a7bff09d729580039ed1f56775330514b
+
+Leetcode: https://leetcode.com/vlatrof/
 
 I'm experienced with:
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
