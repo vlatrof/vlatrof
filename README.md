@@ -18,6 +18,8 @@ HeadHunter: https://hh.ru/resume/57377a7bff09d729580039ed1f56775330514b
 
 HabrCareer: https://career.habr.com/vlatrof
 
+RuStore: https://apps.rustore.ru/?devId=BduvePd0WpfmhtespYMFclgeTwWUhF6E
+
 I'm experienced with:
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](#)
