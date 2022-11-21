@@ -12,9 +12,11 @@ Telegram: https://t.me/object451
 
 LinkedIn: https://linkedin.com/in/vlatrof
 
+Leetcode: https://leetcode.com/vlatrof/
+
 HeadHunter: https://hh.ru/resume/57377a7bff09d729580039ed1f56775330514b
 
-Leetcode: https://leetcode.com/vlatrof/
+HabrCareer: https://career.habr.com/vlatrof
 
 I'm experienced with:
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
