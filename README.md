@@ -12,8 +12,6 @@ Telegram: https://t.me/object451
 
 LinkedIn: https://linkedin.com/in/vlatrof
 
-Leetcode: https://leetcode.com/vlatrof/
-
 HeadHunter: https://hh.ru/resume/57377a7bff09d729580039ed1f56775330514b
 
 HabrCareer: https://career.habr.com/vlatrof
