@@ -5,4 +5,3 @@ I will be glad for any conversations!
 Email: vl.an.trofimov@gmail.com  
 Telegram: https://t.me/object451  
 LinkedIn: https://linkedin.com/in/vlatrof  
-RuStore: https://apps.rustore.ru/?devId=BduvePd0WpfmhtespYMFclgeTwWUhF6E  
